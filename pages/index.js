@@ -22,7 +22,6 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Hey wow, look what I did, sort of.</p>
-        <Link href="posts/first-post"><a>Link to post</a></Link>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
